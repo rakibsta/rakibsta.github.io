@@ -1,6 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Placeholder Text"
+draft = false
 date = "2019-03-09"
 description = "First Blog Post"
 tags = [
