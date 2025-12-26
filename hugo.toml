@@ -1,4 +1,4 @@
-baseURL = 'https://rakibsta.com/'
+baseURL = 'https://rakibsta.github.io/'
 languageCode = 'en-us'
 title = 'Rakibul Chowdhury'
 theme = "hugo-theme-flat-main"
