@@ -3,7 +3,7 @@ theme = "hugo-theme-flat"
 themesDir = "../.."
 enableRobotsTXT = true
 hasCJKLanguage = true
-baseURL = ""
+baseURL = "https://rakibsta.com/"
 
 [pagination]
 pagerSize = 4
