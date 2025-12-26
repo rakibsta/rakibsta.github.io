@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://rakibsta.github.io/'
 languageCode = 'en-us'
 title = 'Rakibul Chowdhury'
 theme = "hugo-theme-flat-main"
