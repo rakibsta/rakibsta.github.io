@@ -15,6 +15,8 @@ I have never been one to put myself out there publicly. A lot of my peers do thi
 
 I'm still pinning down my why, but I started this page because the process of learning about the world and growing as a person never stops, and I want to share some of the things I learn for those who may be interested. I've found in my life that, in most cases, the benefits of collaboration, sharing knowledge, and generally being a nice person far outweigh the potential drawbacks. Hopefully being more "out there" will keep me accountable in the things I pursue.
 
+testing testing.
+
 
 {{< css.inline >}}
 <style>
