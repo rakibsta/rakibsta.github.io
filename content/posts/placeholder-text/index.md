@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Rakib"
 title = "First post"
 draft = false
 date = "2025-12-26"
