@@ -2,7 +2,7 @@
 author = "Rakib"
 title = "Fake sugar?"
 draft = false
-date = "2025-12-27"
+date = "2026-01-13"
 description = "My take on artificial sweeteners."
 tags = [
     "text",
